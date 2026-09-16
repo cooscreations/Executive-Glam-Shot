@@ -148,24 +148,24 @@ Style: McKinsey/Deloitte executive. Forbes-level professional photography.
 
 ## Example Variations
 
-### Example 1: Strategic Project Manager (PM \+ RevOps)
+### Example 1: PM \+ RevOps
 
 **Generator Used:** Gemini  
-**URL:** \[Insert link\]  
+**URL:** (https://assets.cdn.filesafe.space/0WjvFVXmipJrIZCxGPFm/media/6aaaa607a84eda365a953669.jpeg)
 **Accent Colour:** Burnt Orange  
 **Key Credentials:** PMP • RevOps • BA • MSc IT
 
 ### Example 2: CRM Systems Architect
 
-**Generator Used:** DALL-E 3  
-**URL:** \[Insert link\]  
+**Generator Used:** Gemini
+**URL:** https://assets.cdn.filesafe.space/0WjvFVXmipJrIZCxGPFm/media/6aaaa6079f8b31b6ab43a541.jpeg  
 **Accent Colour:** Burnt Orange  
 **Key Credentials:** Automation • Integration • Growth
 
-### Example 3: Enterprise Solutions Consultant
+### Example 3: Strategic Project Manager
 
-**Generator Used:** Adobe Firefly  
-**URL:** \[Insert link\]  
+**Generator Used:** Gemini
+**URL:** (https://assets.cdn.filesafe.space/0WjvFVXmipJrIZCxGPFm/media/6aaaa6072e74dc361220f37e.jpeg
 **Accent Colour:** Teal  
 **Key Credentials:** Strategy • Systems • Scale
 
